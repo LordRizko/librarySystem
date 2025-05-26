@@ -2,6 +2,8 @@
 
 A comprehensive library management system built with Python, Streamlit, and SQLAlchemy. This application provides an intuitive interface for both library patrons and administrators to manage books, borrowings, reservations, and user accounts.
 
+Developed as part of CSC426 coursework | City University
+
 ![Library Management System](https://img.shields.io/badge/Library-Management_System-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=sqlalchemy&logoColor=white)
@@ -206,4 +208,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Developed as part of CSC426 coursework | City University
