@@ -28,8 +28,8 @@ A comprehensive library management system built with Python, Streamlit, and SQLA
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
-cd library-management-system
+git clone https://github.com/LordRizko/librarySystem.git
+cd librarySystem
 ```
 
 2. **Create a virtual environment (optional but recommended)**
